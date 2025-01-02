@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841176104752",
+    "project_id": "etecfirebase3",
+    "storage_bucket": "etecfirebase3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841176104752:android:baf45571fcd816fbafd2f5",
+        "android_client_info": {
+          "package_name": "com.example.etec_flutter_firebase_cli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKp2JCIjCzQRqcjK0svUVsnOekzNorkpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

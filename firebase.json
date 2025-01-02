@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"etecfirebase3","appId":"1:841176104752:android:baf45571fcd816fbafd2f5","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"etecfirebase3","configurations":{"android":"1:841176104752:android:baf45571fcd816fbafd2f5","ios":"1:841176104752:ios:35acba8250821278afd2f5"}}}}}}
